@@ -1,0 +1,14 @@
+matplotlib 
+tensorboard 
+scipy 
+opencv-python 
+tqdm 
+tensorboardX 
+configargparse 
+ipdb 
+kornia 
+imageio[ffmpeg] 
+trimesh 
+torchsummary 
+pandas
+wis3d
